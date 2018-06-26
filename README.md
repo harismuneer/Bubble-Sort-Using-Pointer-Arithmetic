@@ -7,5 +7,5 @@ Bubble Sort is implemented keeping the following points in mind:
 
 
 ## Screenshot
-[!Interface](../master/s.png)
+![Interface](../master/s.png)
 
